@@ -1,0 +1,535 @@
+
+
+@media (min-width: 1200px) {
+  body {
+    margin:0px;
+
+  }
+
+  .titles {
+    font-size: 30px;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    bottom: 40px;
+    left: 510px;
+    position: relative;
+    color: #fff
+  }
+  .titles:hover{
+    color: #261C2C;
+    font-size: 35px;
+  }
+
+  p {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    color: #fff;
+    left: 525px;
+    position: relative;
+  }
+
+  .icon{
+    color: #fff
+  }
+  .icon:hover{
+    color: #261C2C
+  }
+
+  .bar {
+    padding: 20px 20px 60px 20px ;
+    margin: 0 auto;
+    height: 50px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .footer{
+    position: relative;
+    top: 511px;
+    margin: 0;
+    padding: 20px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .buttons{
+    position: relative;
+    top: 50px;
+  }
+
+
+
+  .input-box{
+  border-radius: 15px;
+    position: relative;
+    top: 200px;
+    left: 445px;
+    height: 70px;
+      border: 5px;
+      background-color: #B5EAEA;
+      width: 180px;
+      font-size: 20px;
+      text-align: right;
+      padding-right: 5px;
+  }
+
+
+
+  /* dont touch *******************************************************/
+
+
+  .ba{
+    position: relative;
+        top: 210px;
+        left: 580px;
+  }
+
+  .b1{
+    position: relative;
+        top: 310px;
+        left: 400px;
+  }
+
+  .b2{
+    position: relative;
+        top: 310px;
+        left: 405px;
+  }
+
+  .b3{
+    position: relative;
+        top: 310px;
+        left: 410px;
+  }
+
+  .b4{
+    position: relative;
+        top: 260px;
+        left: 285px;
+  }
+  .b5{
+    position: relative;
+        top: 260px;
+        left: 290px;
+  }
+  .b6{
+    position: relative;
+        top: 260px;
+        left: 295px;
+  }
+  .b7{
+    position: relative;
+        left: 170px;
+        top: 210px;
+  }
+  .b8{
+    position: relative;
+        left: 175px;
+        top: 210px;
+  }
+  .b9{
+    position: relative;
+        left: 180px;
+        top: 210px;
+  }
+  .b0{
+    position: relative;
+    top: 360px;
+    left: 85px;
+
+  }
+
+  .se{
+    position: relative;
+        top: 360px;
+        left: 85px;
+  }
+
+  .s1{
+    position: relative;
+        top: 361px;
+        right: 47px;
+  }
+
+  .s2{
+    position: relative;
+        top: 360px;
+        left: 60px;
+
+  }
+
+  .s3{
+    position: relative;
+        left: 20px;
+        top: 260px;
+  }
+  .s4{
+    position: relative;
+        top: 310px;
+        right: 15px;
+  }
+
+  .c{
+    position: relative;
+        top: 150px;
+  }
+}
+
+
+
+/********************* tablet size *************************** */
+
+@media (max-width: 800px) {
+
+
+
+
+  .titles {
+    font-size: 30px;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    bottom: 40px;
+    left: 270px;
+    position: relative;
+    color: #fff
+  }
+  .titles:hover{
+    color: #261C2C;
+    font-size: 35px;
+  }
+
+  p {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    color: #fff;
+    left: 270px;
+    position: relative;
+  }
+
+  .icon{
+    color: #fff
+  }
+  .icon:hover{
+    color: #261C2C
+  }
+
+  .bar {
+    padding: 20px 20px 60px 20px ;
+    margin: 0 auto;
+    height: 50px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .footer{
+    position: relative;
+    top: 511px;
+    margin: 0;
+    padding: 20px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .buttons{
+    position: relative;
+    top: 50px;
+  }
+
+
+
+  .input-box{
+  border-radius: 15px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    height: 70px;
+      border: 5px;
+      background-color: #B5EAEA;
+      width: 180px;
+      font-size: 20px;
+      text-align: right;
+      padding-right: 5px;
+  }
+
+
+/* tablet buttons */
+
+.ba{
+  position: relative;
+      top: 210px;
+      left: 335px;
+}
+
+.b1{
+  position: relative;
+      top: 310px;
+      left: 155px;
+}
+
+.b2{
+  position: relative;
+      top: 310px;
+      left: 160px;
+}
+
+.b3{
+  position: relative;
+      top: 310px;
+      left: 165px;
+}
+
+.b4{
+  position: relative;
+      top: 260px;
+      left: 40px;
+}
+.b5{
+  position: relative;
+      top: 260px;
+      left: 45px;
+}
+.b6{
+  position: relative;
+      top: 260px;
+      left: 50px;
+}
+.b7{
+  position: relative;
+      right: 75px;
+      top: 210px;
+}
+.b8{
+  position: relative;
+    right: 70px;
+      top: 210px;
+}
+.b9{
+  position: relative;
+      right: 65px;
+      top: 210px;
+}
+.b0{
+  position: relative;
+  top: 360px;
+  right: 160px;
+
+}
+
+.se{
+  position: relative;
+      top: 360px;
+      right: 160px;
+}
+
+.s1{
+  position: relative;
+  top: 318px;
+left: 195px;
+}
+
+.s2{
+  position: relative;
+  top: 318px;
+left: 295px;
+
+}
+
+.s3{
+  position: relative;
+  left: 260px;
+top: 218px;
+}
+.s4{
+  position: relative;
+  top: 269px;
+left: 223px;
+}
+
+.c{
+  position: relative;
+      top: 100px;
+      left: 240px
+}
+
+
+}
+
+/************************** mobile size************************ */
+
+@media (max-width: 500px) {
+
+  .titles {
+    font-size: 30px;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    bottom: 40px;
+    left: 130px;
+    position: relative;
+    color: #fff
+  }
+  .titles:hover{
+    color: #261C2C;
+    font-size: 35px;
+  }
+
+  p {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    color: #fff;
+    left: 130px;
+    position: relative;
+  }
+
+  .icon{
+    color: #fff
+  }
+  .icon:hover{
+    color: #261C2C
+  }
+
+  .bar {
+    padding: 20px 20px 60px 20px ;
+    margin: 0 auto;
+    height: 50px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .footer{
+    position: relative;
+    top: 511px;
+    margin: 0;
+    padding: 20px;
+    background-color: #FFD523;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+  .buttons{
+    position: relative;
+    top: 50px;
+  }
+
+
+
+  .input-box{
+  border-radius: 15px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+    height: 70px;
+      border: 5px;
+      background-color: #B5EAEA;
+      width: 180px;
+      font-size: 20px;
+      text-align: right;
+      padding-right: 5px;
+  }
+
+
+  /* mobile buttons */
+
+  .ba{
+  position: relative;
+      top: 210px;
+      left: 290px;
+  }
+
+  .b1{
+  position: relative;
+      top: 310px;
+      left: 115px;
+  }
+
+  .b2{
+  position: relative;
+      top: 310px;
+      left: 120px;
+  }
+
+  .b3{
+  position: relative;
+      top: 310px;
+      left: 125px;
+  }
+
+  .b4{
+  position: relative;
+      top: 260px;
+      left: 0px;
+  }
+  .b5{
+  position: relative;
+      top: 260px;
+      left: 5px;
+  }
+  .b6{
+  position: relative;
+      top: 260px;
+      left: 10px;
+  }
+  .b7{
+  position: relative;
+      right: 120px;
+      top: 210px;
+  }
+  .b8{
+  position: relative;
+    right: 115px;
+      top: 210px;
+  }
+  .b9{
+  position: relative;
+      right: 110px;
+      top: 210px;
+  }
+  .b0{
+  position: relative;
+  top: 360px;
+  right: 195px;
+
+  }
+
+  .se{
+  position: relative;
+      top: 318px;
+      left: 250px;
+  }
+
+  .s1{
+  position: relative;
+  top: 318px;
+  left: 120px;
+  }
+
+  .s2{
+  position: relative;
+  top: 318px;
+  left: 209px;
+
+  }
+
+  .s3{
+  position: relative;
+  left: 175px;
+  top: 218px;
+  }
+  .s4{
+  position: relative;
+  top: 269px;
+  left: 135px;
+  }
+
+  .c{
+  position: relative;
+      top: 100px;
+      left: 150px
+  }
+
+
+}
