@@ -1,4 +1,3 @@
-@media (min-width: 1200px) {
   body {
     margin:0px;
 
@@ -17,16 +16,30 @@
     font-family: 'Noto Sans', sans-serif;
     margin: 0 auto 0 auto;
     bottom: 40px;
-    width: 30%;
+    width: 50%;
     position: relative;
     color: #fff;
     text-align: center;
+
   }
+
+
+@media (min-width: 1000px){
   .titles:hover{
     color: #261C2C;
     font-size: 35px;
   }
 
+  .icon:hover{
+    color: #261C2C
+  }
+}
+
+.icon{
+  color: #fff
+}
+
+
   p {
     margin: 0;
     font-family: 'Noto Sans', sans-serif;
@@ -34,12 +47,7 @@
     text-align: center;
   }
 
-  .icon{
-    color: #fff
-  }
-  .icon:hover{
-    color: #261C2C
-  }
+
 
   .bar {
     padding: 20px 20px 60px 20px ;
@@ -178,186 +186,3 @@
     right: 20px;
   }
 }
-
-
-
-/********************* tablet size and Mobile *************************** */
-
-@media (min-width: 400px) {
-
-  .numbers{
-    /* background-color: grey; */
-    height: 300px;
-    width: 300px;
-    position: relative;
-    top: 250px;
-    margin: 0 auto;
-  }
-
-  .titles {
-    font-size: 30px;
-    font-family: 'Noto Sans', sans-serif;
-    margin: 0 auto 0 auto;
-    bottom: 40px;
-    position: relative;
-    color: #fff;
-    text-align: center;
-  }
-
-
-  p {
-    margin: 0;
-    font-family: 'Noto Sans', sans-serif;
-    color: #fff;
-    text-align: center;
-  }
-
-  .icon{
-    color: #fff
-  }
-  .icon:hover{
-    color: #261C2C
-  }
-
-  .bar {
-    padding: 20px 20px 60px 20px ;
-    margin: 0 auto;
-    height: 50px;
-    background-color: #FFD523;
-    overflow-x: hidden;
-    overflow-y: hidden;
-  }
-
-  .footer{
-    position: relative;
-    top: 511px;
-    margin: 0;
-    padding: 20px;
-    background-color: #FFD523;
-    overflow-x: hidden;
-    overflow-y: hidden;
-  }
-
-
-
-
-  .input-box{
-  border-radius: 15px;
-    position: absolute;
-    left: 55px;
-    height: 70px;
-      border: 5px;
-      background-color: #B5EAEA;
-      width: 180px;
-      font-size: 20px;
-      text-align: right;
-      padding-right: 5px;
-  }
-
-
-
-  /* dont touch *******************************************************/
-
-
-  .ba{
-    position: absolute;
-      top: 80px;
-      left: 195px;
-  }
-
-  .b1{
-    position: absolute;
-    top: 180px;
-    left: 60px;
-  }
-
-  .b2{
-    position: absolute;
-    top: 180px;
-    left: 105px;
-  }
-
-  .b3{
-    position: absolute;
-    top: 180px;
-    left: 150px;
-  }
-
-  .b4{
-    position: absolute;
-      top: 130px;
-      right: 205px;
-  }
-  .b5{
-    position: absolute;
-    top: 130px;
-    right: 160px;
-  }
-  .b6{
-    position: absolute;
-    top: 130px;
-    right: 115px;
-  }
-  .b7{
-    position: absolute;
-    left: 60px;
-    top: 80px;
-  }
-  .b8{
-    position: absolute;
-    left: 105px;
-    top: 80px;
-  }
-  .b9{
-    position: absolute;
-    left: 150px;
-    top: 80px;
-  }
-  .b0{
-    position: absolute;
-    top: 230px;
-    left: 100px;
-
-  }
-
-  .se{
-    position: absolute;
-    top: 235px;
-    left: 150px;
-  }
-
-  .s1{
-    position: absolute;
-    top: 235px;
-    right: 205px;
-  }
-
-  .s2{
-    position: absolute;
-    top: 235px;
-    left: 198px;
-
-  }
-
-  .s3{
-    position: absolute;
-      left: 198px;
-      top: 130px;
-  }
-  .s4{
-    position: absolute;
-    top: 180px;
-    right: 70px;
-  }
-
-  .c{
-    position: absolute;
-    bottom: 245px;
-    right: 20px;
-  }
-  }
-
-
-
-}
-
