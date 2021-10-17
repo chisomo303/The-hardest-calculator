@@ -23,6 +23,11 @@
 
   }
 
+@media (max-width: 500)  {
+  .titles{
+    font-size: 15px;
+  }
+}
 
 @media (min-width: 1000px){
   .titles:hover{
